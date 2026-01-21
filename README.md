@@ -121,16 +121,11 @@ This project showcases my ability as a **data scientist / data analyst** to:
 
 ### 📁 Repository Structure
 telecom-churn-prediction/
-│
-├── data/
-│   └── raw/
-│       ├── telecom_demographics.csv
-│       └── telecom_usage.csv
-│
-├── notebooks/
-│   └── telecom_churn_prediction.ipynb
-│
+├── telecom_demographics.csv
+├── telecom_usage.csv
+├── telecom_churn_prediction.ipynb
 ├── README.md
-└── .gitignore
+└── requirements.txt
+
 
 
